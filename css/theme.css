@@ -1,0 +1,95 @@
+.a {
+  background-color: rgb(0, 255, 0);
+}
+
+.b {
+  background-color: rgb(12, 228, 12);
+}
+
+.c {
+  background-color: rgb(19, 201, 19);
+}
+
+.d {
+  background-color: rgb(13, 155, 13);
+}
+
+.e {
+  background-color: rgb(9, 113, 9);
+}
+
+.f {
+  background-color: rgb(8, 99, 8);
+}
+
+.g {
+  background-color: rgb(4, 92, 4);
+}
+
+.h {
+  background-color: rgb(7, 63, 7);
+}
+
+.i {
+  background-color: rgb(3, 29, 3);
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .a {
+    background-color: blue;
+  }
+  .b {
+    background-color: rgb(17, 17, 235);
+  }
+  .c {
+    background-color: rgb(36, 36, 187);
+  }
+  .d {
+    background-color: rgb(43, 43, 164);
+  }
+  .e {
+    background-color: rgb(49, 49, 147);
+  }
+  .f {
+    background-color: rgb(94, 17, 218);
+  }
+  .g {
+    background-color: rgb(81, 14, 187);
+  }
+  .h {
+    background-color: rgb(49, 9, 142);
+  }
+  .i {
+    background-color: rgb(47, 7, 92);
+  }
+}
+
+@media (min-width: 1024px) {
+  .a {
+    background-color: red;
+  }
+  .b {
+    background-color: rgb(232, 22, 22);
+  }
+  .c {
+    background-color: rgb(191, 34, 34);
+  }
+  .d {
+    background-color: rgb(133, 11, 11);
+  }
+  .e {
+    background-color: rgb(131, 15, 15);
+  }
+  .f {
+    background-color: rgb(242, 148, 7);
+  }
+  .g {
+    background-color: rgb(206, 121, 18);
+  }
+  .h {
+    background-color: rgb(232, 160, 5);
+  }
+  .i {
+    background-color: rgb(242, 186, 1);
+  }
+}
