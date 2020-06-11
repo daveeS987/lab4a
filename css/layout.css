@@ -1,0 +1,11 @@
+.grid-container {
+  width: 90%;
+  margin: 5% auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 75px 150px 125px 125px 250px 250px 100px;
+}
+
+div {
+  border: 1px solid gray;
+}
